@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "test": "npx vitest",
+    "test": "npx vitest run",
     "lint": "npx eslint eslint-plugin"
   },
   "private": true,
